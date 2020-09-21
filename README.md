@@ -1,5 +1,5 @@
 # Scala for Beginners
-A repository for Scala tutorial notebooks
+A repository of Scala tutorial notebooks
 
 ### How To Use
 
