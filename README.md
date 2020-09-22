@@ -45,3 +45,7 @@ jupyter lab
 ```
 
 If all goes well, you will see the `LabApp` run in the shell and open up the notebook application in your default web browser.
+
+### Contributing 🎉
+
+If you want to suggest a correction, improvement or add something useful, fire over a PR and get involved! 
