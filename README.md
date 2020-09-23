@@ -28,13 +28,13 @@ git clone git@github.com:pcandoalmeida/scala-for-beginners.git
 
 Then (if you're having issues with Jupyter Lab and Python) install a local version of Python that works with Jupyter Lab. Otherwise, proceed to Step 4.
 
-```bash
+```
 pyenv install 3.8.0
 ```
 
 And then:
 
-```bash
+```
 pyenv local 3.8.0
 ```
 
